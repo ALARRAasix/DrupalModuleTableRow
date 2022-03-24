@@ -1,0 +1,15 @@
+#En aquest fitxer tenim les rutes especificades del nostre modul com per exemple: el path del modul
+#, la ruta del formulari .php per poder fer aquest exercici, permisos i un titol del formulari. 
+
+table_row.Table_Row_Form:
+  path: '/Table_Row'
+  defaults:
+    _form: '\Drupal\table_row\Form\TableRowForm'
+    _title: 'Introdueix un número de files per crear una taula'
+  requirements:
+    _permission: 'access content'
+
+
+
+
+    

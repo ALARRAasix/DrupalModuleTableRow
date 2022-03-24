@@ -1,0 +1,9 @@
+#Fitxer per crear el modul
+name: Table Row
+type: module
+description: Crearem una taula partint de numero de files
+package: Custom
+core_version_requirement: 9.x
+
+
+
