@@ -1,5 +1,4 @@
-#En aquest fitxer tenim les rutes especificades del nostre modul com per exemple: el path del modul
-#, la ruta del formulari .php per poder fer aquest exercici, permisos i un titol del formulari. 
+#Aqui definirem la ruta del modul,titol del formulari i la seva ruta i permisos.
 
 table_row.Table_Row_Form:
   path: '/Table_Row'
