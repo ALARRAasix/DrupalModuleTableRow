@@ -1,6 +1,5 @@
 ### DrupalModuleTableRow
 Fet per:
-- Aryan
-- Álvaro
-- Ravinder
+- Aryan,Álvaro,Ravinder
 
+Enllaç demo:
